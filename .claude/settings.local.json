@@ -5,7 +5,8 @@
       "Bash(vercel --prod:*)",
       "Bash(bun run build:*)",
       "Bash(vercel logs:*)",
-      "Bash(bunx tsc:*)"
+      "Bash(bunx tsc:*)",
+      "Bash(git add:*)"
     ]
   }
 }
