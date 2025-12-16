@@ -1,0 +1,11 @@
+{
+  "$schema": "https://xiom-ui.dev/schema.json",
+  "style": "default",
+  "tailwind": {
+    "css": "src/app/globals.css"
+  },
+  "aliases": {
+    "components": "src/components/ui",
+    "utils": "src/lib/utils"
+  }
+}

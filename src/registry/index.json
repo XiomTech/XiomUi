@@ -1,0 +1,14 @@
+{
+  "name": "xiom-ui",
+  "components": [
+    {
+      "name": "button",
+      "description": "A button component with variants",
+      "dependencies": ["@radix-ui/react-slot", "class-variance-authority"],
+      "devDependencies": [],
+      "registryDependencies": [],
+      "files": ["ui/button.tsx"],
+      "type": "ui"
+    }
+  ]
+}

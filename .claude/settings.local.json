@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(vercel --version:*)",
+      "Bash(vercel --prod:*)",
+      "Bash(bun run build:*)",
+      "Bash(vercel logs:*)"
+    ]
+  }
+}
