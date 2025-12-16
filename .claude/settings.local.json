@@ -6,7 +6,11 @@
       "Bash(bun run build:*)",
       "Bash(vercel logs:*)",
       "Bash(bunx tsc:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(cat:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(vercel ls:*)"
     ]
   }
 }

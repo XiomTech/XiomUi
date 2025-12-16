@@ -9,7 +9,7 @@ import prompts from "prompts";
 
 // Change this to your deployed URL
 const REGISTRY_URL =
-  process.env.REGISTRY_URL || "http://localhost:3000/api/registry";
+  process.env.REGISTRY_URL || "https://xiom-ui.vercel.app/api/registry";
 
 interface Component {
   name: string;
