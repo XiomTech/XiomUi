@@ -1,5 +1,5 @@
 {
-  "name": "xiom-ui",
+  "name": "mh-miyad",
   "version": "0.1.0",
   "description": "A CLI to add beautiful UI components to your React project",
   "type": "module",
@@ -29,7 +29,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mh-miyad/XiomUI"
+    "url": "git+https://github.com/mh-miyad/XiomUI"
   },
   "homepage": "https://xiom-ui.vercel.app",
   "engines": {
